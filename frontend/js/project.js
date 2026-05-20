@@ -1,4 +1,4 @@
-const API = 'https://team-task-manager-two-bice.vercel.app//api'; // UPDATE AFTER DEPLOY
+const API = 'https://team-task-manager-two-bice.vercel.app/api'; // UPDATE AFTER DEPLOY
 
 const token = localStorage.getItem('token');
 const user = JSON.parse(localStorage.getItem('user') || '{}');

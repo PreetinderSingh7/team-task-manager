@@ -1,4 +1,4 @@
-const API = 'https://team-task-manager-two-bice.vercel.app//api'; // UPDATE AFTER DEPLOY
+const API = 'https://team-task-manager-two-bice.vercel.app/api'; // UPDATE AFTER DEPLOY
 
 function showTab(tab) {
   document.getElementById('loginForm').classList.toggle('hidden', tab !== 'login');
