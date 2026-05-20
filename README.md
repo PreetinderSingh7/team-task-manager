@@ -3,8 +3,8 @@
 A full-stack web application for managing projects and tasks with role-based access control (Admin/Member).
 
 ## 🚀 Live Demo
-- **Frontend:** [your-netlify-url.netlify.app](https://your-netlify-url.netlify.app)
-- **Backend API:** [your-backend.railway.app](https://your-backend.railway.app)
+- **Frontend:** https://team-task-manager-sl8b-git-main-preetindersingh7s-projects.vercel.app/index.html
+- **Backend API:** https://team-task-manager-two-bice.vercel.app/
 
 ---
 
