@@ -1,4 +1,4 @@
-const API = 'https://your-backend-url.railway.app/api'; // UPDATE AFTER DEPLOY
+const API = 'team-task-manager-mqnyotawu-preetindersingh7s-projects.vercel.app/api'; // UPDATE AFTER DEPLOY
 
 const token = localStorage.getItem('token');
 const user = JSON.parse(localStorage.getItem('user') || '{}');

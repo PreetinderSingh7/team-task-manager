@@ -1,4 +1,4 @@
-const API = 'https://127.0.0.1:3000/api'; // UPDATE AFTER DEPLOY
+const API = 'team-task-manager-mqnyotawu-preetindersingh7s-projects.vercel.app/api'; // UPDATE AFTER DEPLOY
 
 function showTab(tab) {
   document.getElementById('loginForm').classList.toggle('hidden', tab !== 'login');
